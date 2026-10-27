@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Khung quét -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M30,40V32a2,2 0,0 1,2,-2h8M68,30h8a2,2 0,0 1,2,2v8M78,68v8a2,2 0,0 1,-2,2h-8M40,78h-8a2,2 0,0 1,-2,-2v-8"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <!-- Tờ giấy -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M42,37h18l8,8v24a2,2 0,0 1,-2,2H42a2,2 0,0 1,-2,-2V39a2,2 0,0 1,2,-2z" />
+    <!-- Góc gấp -->
+    <path
+        android:fillColor="#FFBBDEFB"
+        android:pathData="M60,37v6a2,2 0,0 0,2,2h6z" />
+    <!-- Dòng chữ -->
+    <path
+        android:fillColor="#FF0061A4"
+        android:pathData="M45,50h18v2.5h-18zM45,56h18v2.5h-18zM45,62h12v2.5h-12z" />
+</vector>

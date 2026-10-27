@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Ảnh ghi chú đã chuẩn hóa: filesDir/images -->
+    <files-path
+        name="note_images"
+        path="images/" />
+    <!-- Ảnh tạm do app Camera ghi vào: cacheDir/camera -->
+    <cache-path
+        name="camera_temp"
+        path="camera/" />
+</paths>

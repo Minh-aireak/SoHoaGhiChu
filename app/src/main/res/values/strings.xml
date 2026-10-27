@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Số hóa ghi chú</string>
+
+    <!-- Màn hình danh sách -->
+    <string name="action_search">Tìm kiếm</string>
+    <string name="search_hint">Tìm theo tiêu đề, nội dung…</string>
+    <string name="action_export_all">Xuất tất cả ra tệp TXT</string>
+    <string name="btn_take_photo">Chụp ảnh</string>
+    <string name="btn_pick_image">Chọn ảnh</string>
+    <string name="empty_notes">Chưa có ghi chú nào.\nHãy chụp hoặc chọn ảnh ghi chú để bắt đầu số hóa.</string>
+    <string name="empty_search">Không tìm thấy ghi chú nào khớp với “%1$s”.</string>
+    <string name="subtitle_count">%1$d ghi chú</string>
+    <string name="subtitle_search_result">Tìm thấy %1$d / %2$d ghi chú</string>
+    <string name="error_no_camera">Không tìm thấy ứng dụng máy ảnh trên thiết bị</string>
+    <string name="error_import_image">Không thể đọc ảnh: %1$s</string>
+
+    <!-- Màn hình ghi chú -->
+    <string name="title_new_note">Ghi chú mới</string>
+    <string name="title_edit_note">Chi tiết ghi chú</string>
+    <string name="hint_title">Tiêu đề</string>
+    <string name="hint_content">Nội dung (văn bản nhận dạng từ ảnh)</string>
+    <string name="action_back">Quay lại</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_copy">Sao chép</string>
+    <string name="action_ocr_again">Nhận dạng lại từ ảnh</string>
+    <string name="action_export_txt">Xuất tệp TXT</string>
+    <string name="action_export_pdf">Xuất tệp PDF</string>
+    <string name="action_share">Chia sẻ</string>
+    <string name="action_delete">Xóa ghi chú</string>
+    <string name="content_desc_note_image">Ảnh ghi chú, nhấn để phóng to</string>
+    <string name="content_desc_thumbnail">Ảnh thu nhỏ của ghi chú</string>
+    <string name="stats_format">%1$d ký tự · %2$d từ</string>
+    <string name="default_title">Ghi chú %1$s</string>
+    <string name="note_saved">Đã lưu ghi chú</string>
+    <string name="note_empty">Ghi chú đang trống, không thể lưu</string>
+    <string name="note_not_found">Không tìm thấy ghi chú</string>
+    <string name="note_deleted">Đã xóa ghi chú</string>
+    <string name="copied">Đã sao chép nội dung</string>
+    <string name="nothing_to_copy">Chưa có nội dung để sao chép</string>
+    <string name="error_no_viewer">Không có ứng dụng để xem ảnh</string>
+
+    <!-- OCR -->
+    <string name="ocr_running">Đang nhận dạng chữ trong ảnh…</string>
+    <string name="ocr_done">Đã nhận dạng %1$d dòng văn bản. Bạn có thể chỉnh sửa trước khi lưu.</string>
+    <string name="ocr_empty">Không tìm thấy chữ nào trong ảnh.</string>
+    <string name="ocr_failed">Nhận dạng thất bại: %1$s</string>
+
+    <!-- Hộp thoại -->
+    <string name="dialog_delete_title">Xóa ghi chú</string>
+    <string name="dialog_delete_message">Bạn có chắc muốn xóa “%1$s”? Ảnh gốc cũng sẽ bị xóa.</string>
+    <string name="dialog_ocr_title">Nhận dạng lại</string>
+    <string name="dialog_ocr_message">Ô nội dung đã có chữ. Bạn muốn thay thế hay nối thêm kết quả nhận dạng mới?</string>
+    <string name="dialog_unsaved_title">Chưa lưu ghi chú</string>
+    <string name="dialog_unsaved_message">Bạn có muốn lưu ghi chú trước khi thoát không?</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_discard">Không lưu</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_replace">Thay thế</string>
+    <string name="btn_append">Nối thêm</string>
+
+    <!-- Xuất tệp / chia sẻ -->
+    <string name="export_success">Đã xuất tệp thành công</string>
+    <string name="export_failed">Xuất tệp thất bại: %1$s</string>
+    <string name="export_nothing">Chưa có ghi chú nào để xuất</string>
+    <string name="export_created_at">Ngày tạo: %1$s</string>
+    <string name="export_updated_at">Cập nhật: %1$s</string>
+    <string name="export_all_header">DANH SÁCH GHI CHÚ (%1$d)</string>
+    <string name="export_time">Xuất lúc: %1$s</string>
+    <string name="pdf_page_number">Trang %1$d</string>
+    <string name="no_content">(Không có nội dung)</string>
+    <string name="share_chooser_title">Chia sẻ ghi chú qua</string>
+</resources>
